@@ -2,7 +2,7 @@
 
 This is code for the paper "ReFill: Reinforcement Learning for Fill-In Minimization"
 
-#Libraries needed:
+# Libraries needed:
 1) stable-baselines3
 2) gymnasium
 3) numpy
